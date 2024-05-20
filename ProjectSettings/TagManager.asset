@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ingredients
+  - PrepIngredients
+  - Wall
+  - Tool
+  - Table
+  - Cuspos
+  - hasIngre
+  - hasPrepIngre
+  - hasDish
+  - IngreT
+  - PrepIngreT
+  - DishT
+  - ItemOnTable
+  - Doma
+  - Pot
+  - Trash
+  - PosCam
+  - Dishes
+  - Outlet
+  - Customer
+  - Spawn
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - Player
+  - Ingredients
+  - CookingZone
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
